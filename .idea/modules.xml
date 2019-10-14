@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Register.iml" filepath="$PROJECT_DIR$/.idea/Register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blogtest/.idea/blogtest.iml" filepath="$PROJECT_DIR$/../blogtest/.idea/blogtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../powermasterspoint/reg/log/dashboard/.idea/login.iml" filepath="$PROJECT_DIR$/../powermasterspoint/reg/log/dashboard/.idea/login.iml" />
+    </modules>
+  </component>
+</project>
